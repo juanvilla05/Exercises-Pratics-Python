@@ -2,6 +2,8 @@
 
 This set of exercises primarily aims to thoroughly understand the concept 🧠 and behavior of **global variables** in the Python programming language. Through practical and simple examples ✨
 
+[Here you will find the readme in Spanish.](https://github.com/juanvilla05/Exercises-Pratics-Python/blob/038748c4fa1a3906a4c6cb46abbaba7ad57d0805/README.md)
+
 ## 🤔 What Will We Learn?
 
 By completing these exercises, you will be able to:
