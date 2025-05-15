@@ -2,6 +2,8 @@
 
 Este conjunto de ejercicios tiene como finalidad principal comprender a fondo el concepto 🧠 y el comportamiento de las **variables globales** en el lenguaje de programación Python. A través de ejemplos prácticos y sencillos ✨
 
+[Aquí encontraras el README en ingles](https://github.com/juanvilla05/Exercises-Pratics-Python/blob/2bbb02ff2251717eebcf836afd76137b31d9b02c/README_English.md)
+
 ## 🤔 ¿Qué Aprenderemos?
 
 Al completar estos ejercicios, podrás:
