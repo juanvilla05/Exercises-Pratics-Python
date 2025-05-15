@@ -60,4 +60,4 @@ git clone <https://github.com/juanvilla05/Exercises-Pratics-Python.git>
 
 Reemplaza `<https://github.com/juanvilla05/Exercises-Pratics-Python.git>` con la dirección web del repositorio donde se encuentren los ejercicios. Una vez clonado, podrás navegar a la carpeta del proyecto 📂 y ejecutar los archivos `.py` con un intérprete de Python 🐍.
 
-¡Esperamos que estos ejercicios te sean de gran utilidad 👍 para comprender el manejo de las variables globales en Python\! Si tienes alguna pregunta 🤔, no dudes en consultarnos.
+¡Esperamos que estos ejercicios te sean de gran utilidad 👍
